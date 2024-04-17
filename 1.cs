@@ -10,8 +10,8 @@ class Program
     {
       total = total + num;
     }
-    
+
     Console.WriteLine($"A soma total é {total}");
-    
+
   }
 }
